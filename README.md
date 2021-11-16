@@ -1,2 +1,2 @@
 # R-DataScience
-Using r for data science practicing.
+Using r for data science practice.
